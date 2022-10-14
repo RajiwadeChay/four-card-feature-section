@@ -199,7 +199,7 @@ li {
 /*for wrapper*/
 .wrapper {
   max-width: 1920px;
-  width: 86%;
+  width: 82%;
   margin: 0 auto;
 }
 
@@ -210,9 +210,84 @@ li {
 /*=================================
   main styling starts here
 =================================*/
+main {
+  background-color: #FAFAFA;
+}
 
+.delivery {
+  padding: 83px 0;
+}
 
+h1 {
+  color: #4D5063;
+  font-size: 24px;
+  text-align: center;
+}
 
+h1 span {
+  font-weight: 600;
+}
+
+.delivery p {
+  margin-top: 16px;
+  color: #BFBFC1;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 25px;
+  text-align: center;
+}
+
+ul {
+  margin-top: 75px 0;
+}
+
+li {
+  width: 100%;
+}
+
+.card {
+  padding: 23px 9%;
+  margin-bottom: 25px;
+  border-top: 4px solid #43D3D1;
+  border-radius: 5px;
+  box-shadow: 0px 10px 15px 1px rgb(0 0 0 / 10%);
+  background-color: #FFF;
+}
+
+.team-builder {
+  border-top: 4px solid #E75651;
+}
+
+.karma {
+  border-top: 4px solid #FBAD49;
+}
+
+.calculator {
+  margin-bottom: 0;
+  border-top: 4px solid #549CEE;
+}
+
+h2 {
+  color: #4D5063;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.card p {
+  margin-top: 5px;
+  font-size: 12px;
+  text-align: start;
+}
+
+figure {
+  margin-top: 30px;
+  text-align: end;
+}
+
+.card img {
+  max-width: 60px;
+  max-height: 60px;
+}
 
 
 
